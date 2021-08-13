@@ -1,0 +1,276 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/* header */
+header {
+    /* background *****/
+    position: absolute;
+    width: 1920px;
+    height: 900px;
+    left: calc(50% - 1920px/2);
+    top: 0px;
+    background: #94BAAB;
+}
+.navbar .image-logo {
+    /* logo */
+    position: absolute;
+    width: 242px;
+    height: 53.06px;
+    left: 241px;
+    top: 30.94px;
+}
+.navbar ul li a h2 {
+    /* Home */
+    position: absolute;
+    width: 67px;
+    height: 30px;
+    left: calc(50% - 67px/2 - 383.5px);
+    top: 40px;
+
+    font-family: Cabin serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FEFEFE;
+}
+.navbar ul li h3 {
+    /* Find a doctor */
+
+
+    position: absolute;
+    width: 140px;
+    height: 30px;
+    left: calc(50% - 140px/2 - 227px);
+    top: 40px;
+
+    font-family: Cabin serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FEFEFE;
+}
+#nav-apps {
+    /* Rectangle 3 */
+    position: absolute;
+    width: 101px;
+    height: 110px;
+    left: calc(50% - 101px/2 - 88.5px);
+    top: 0px;
+
+    background: #B5DACB;
+    border-bottom: 3px #ffffff solid;
+
+}
+.navbar ul li h4 {
+    /* Apps */
+
+    position: absolute;
+    width: 55px;
+    height: 30px;
+    left: 20px;
+    top: 40px;
+
+    font-family: Cabin sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFF;
+}
+.navbar ul li h5 {
+    /* Testimonials */
+
+
+    position: absolute;
+    width: 134px;
+    height: 30px;
+    left: calc(50% - 134px/2 + 63px);
+    top: 40px;
+
+    font-family: Cabin sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FEFEFE;
+}
+.navbar ul li h6 {
+    /* About us */
+
+
+    position: absolute;
+    width: 95px;
+    height: 30px;
+    left: calc(50% - 95px/2 + 222.5px);
+    top: 40px;
+
+    font-family: Cabin serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FEFEFE;
+
+}
+.navbar ul li span {
+    /* +998 93 701 44 64 */
+
+/* Group 2 */
+
+
+position: absolute;
+width: 203px;
+height: 49px;
+left: 1309px;
+top: 34px;
+background: url(../img/Group\ 2.png);
+}
+.navbar ul li h1 {
+   /* Group 5 */
+
+
+position: absolute;
+width: 91px;
+height: 22.62px;
+left: 1656px;
+top: 37px;
+}
+/* header bottom line*/ 
+.line-1 {
+    position: absolute;
+    width: 1920px;
+    margin-top: 182px;
+}
+/* container srtart*/
+.container #virtual .for-you {
+    /* Virtual healthcare for you */
+
+    position: absolute;
+    width: 722.02px;
+    height: 155.79px;
+    left: calc(50% - 722.02px/2 - 358.99px);
+    top: 236px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 205px;
+    line-height: 78px;
+    /* or 104% */
+
+    letter-spacing: 0.1em;
+
+    color: #FFF;
+
+    mix-blend-mode: normal;
+}
+.container #virtual .for-you span {
+    padding-left: 35px;
+}
+/* p lorem */
+.container #virtual p {
+    position: absolute;
+    width: 605px;
+    height: 127px;
+    left: calc(50% - 705px/2 - 367.5px);
+    top: 418px;
+
+    font-family: Cabin serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.4888px;
+    line-height: 34px;
+    /* or 160% */
+
+
+    color: #FEFEFE;
+
+    mix-blend-mode: ;
+}
+/* ------button-1 ------*/
+.container #virtual
+ .btn {
+    /* Rectangle 1 */
+    position: absolute;
+    width: 214.89px;
+    height: 60.17px;
+    left: calc(50% - 214.89px/2 - 612.56px);
+    top: 603.22px;
+
+    background: #FFF;
+}
+.container #virtual
+ .btn h5 {
+     /* Consult today */
+
+    position: absolute;
+    width: 117.11px;
+    height: 64.47px;
+    margin-left: -59px;
+    top: 0px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-size: 19.34px;
+    line-height: 64px;
+    /* identical to box height, or 333% */
+
+    text-align: center;
+
+    color: #A6BFC3;
+
+ }
+ .container #virtual .buton-api h5 {
+    position: absolute;
+    width: 214.89px;
+    height: 60.17px;
+    left: calc(50% - 214.89px/2 - 343.95px);
+    top: 602.76px;
+    
+    border: 2.14888px solid #FEFEFE;
+    box-sizing: border-box;
+ }
+ .container #virtual .buton-api .show-case {
+     /* Show more */
+        height: 64.47px;
+        top: 599.53px;
+
+        font-family: Cabin;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 19.34px;
+        line-height: 64px;
+        /* identical to box height, or 333% */
+
+        text-align: center;
+
+        color: #FEFEFE;
+
+        mix-blend-mode: normal;
+ }
+ .container #virtual .buton-api .show-case:hover {
+    background: #FFF;
+    color: #94BAAB;
+}
+ /* foto doctor */ 
+.container .nimadur {
+    /* nimadur 2 */
+
+
+    position: absolute;
+    width: 792px;
+    height: 762px;
+    left: calc(50% - 792px/2 + 465px);
+    top: 138px;
+
+    background: url(../img/nimadur\ 2.png);
+
+}
